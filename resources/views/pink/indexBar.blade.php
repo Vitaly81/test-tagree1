@@ -26,7 +26,7 @@
 				            <div class="widget-last widget text-image">
 				                <h3>Customer support</h3>
 				                <div class="text-image" style="text-align:left"><img src="{{asset(config('settings.theme'))}}/images/callus.gif" alt="Customer support" /></div>
-				                <p>Proin porttitor dolor eu nibh lacinia at ultrices lorem venenatis. Sed volutpat scelerisque vulputate. </p>
+				                <p>Завершённость высказывания связана со смысловой цельностью текста. Показателем законченности текста является возможность подобрать к нему заголовок, отражающий его содержание. </p>
 				            </div>
 				            
 				        
